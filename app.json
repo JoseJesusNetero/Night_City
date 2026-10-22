@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Cidade Viva",
+    "slug": "cidade-viva",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "scheme": "cidadeviva",
+    "android": {
+      "package": "com.cidadeviva.app"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "plugins": ["expo-router"],
+    "experiments": {
+      "typedRoutes": true
+    }
+  }
+}
